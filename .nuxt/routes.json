@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/pileoni/GitHub/casa-giavera-web/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_150d72b9"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/pileoni/GitHub/casa-giavera-web/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e2a75b1e"
+  }
+]
