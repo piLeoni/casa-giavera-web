@@ -652,7 +652,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Donja Barska",
-                "Country": "Bosnia and Herzegovina",
+                "Country": "Bosnia ed Erzegovina",
                 "Lat": 44.99717,
                 "Lon": 15.85525
             },
@@ -668,7 +668,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Šamac",
-                "Country": "Bosnia and Herzegovina",
+                "Country": "Bosnia ed Erzegovina",
                 "Lat": 45.06129,
                 "Lon": 18.46935
             },
@@ -684,7 +684,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Priboj",
-                "Country": "Bosnia and Herzegovina",
+                "Country": "Bosnia ed Erzegovina",
                 "Lat": 44.59964,
                 "Lon": 18.92831
             },
@@ -700,7 +700,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Sarajevo",
-                "Country": "Bosnia and Herzegovina",
+                "Country": "Bosnia ed Erzegovina",
                 "Lat": 43.858181,
                 "Lon": 18.41234
             },
@@ -716,7 +716,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Srebrenica",
-                "Country": "Bosnia and Herzegovina",
+                "Country": "Bosnia ed Erzegovina",
                 "Lat": 44.10334,
                 "Lon": 19.29876
             },
@@ -732,7 +732,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Barra de São Francisco",
-                "Country": "Brazil",
+                "Country": "Brasile",
                 "Lat": -18.75224,
                 "Lon": -40.89269
             },
@@ -748,7 +748,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Bela Vista do Paraíso",
-                "Country": "Brazil",
+                "Country": "Brasile",
                 "Lat": -22.99622,
                 "Lon": -51.1911
             },
@@ -764,7 +764,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Belo Horizonte",
-                "Country": "Brazil",
+                "Country": "Brasile",
                 "Lat": -19.91818,
                 "Lon": -43.93705
             },
@@ -780,7 +780,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Cachoeiro de Itapemirim",
-                "Country": "Brazil",
+                "Country": "Brasile",
                 "Lat": -20.84887,
                 "Lon": -41.11325
             },
@@ -796,7 +796,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Colatina",
-                "Country": "Brazil",
+                "Country": "Brasile",
                 "Lat": -19.5345,
                 "Lon": -40.62926
             },
@@ -812,7 +812,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Curitiba",
-                "Country": "Brazil",
+                "Country": "Brasile",
                 "Lat": -25.42836,
                 "Lon": -49.273251
             },
@@ -828,7 +828,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Linhares",
-                "Country": "Brazil",
+                "Country": "Brasile",
                 "Lat": -19.37303,
                 "Lon": -40.05468
             },
@@ -844,7 +844,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Pequiá",
-                "Country": "Brazil",
+                "Country": "Brasile",
                 "Lat": -20.27518,
                 "Lon": -41.77736
             },
@@ -860,7 +860,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Santa Teresa",
-                "Country": "Brazil",
+                "Country": "Brasile",
                 "Lat": -19.93468,
                 "Lon": -40.59567
             },
@@ -876,7 +876,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Sertanópolis",
-                "Country": "Brazil",
+                "Country": "Brasile",
                 "Lat": -23.05947,
                 "Lon": -51.03244
             },
@@ -892,7 +892,7 @@
             "type": "Feature",
             "properties": {
                 "City": "São Paulo",
-                "Country": "Brazil",
+                "Country": "Brasile",
                 "Lat": -23.54867,
                 "Lon": -46.638248
             },
@@ -908,7 +908,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Tabocas do Brejo Velho",
-                "Country": "Brazil",
+                "Country": "Brasile",
                 "Lat": -12.70558,
                 "Lon": -44.00877
             },
@@ -1068,7 +1068,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Batouri",
-                "Country": "Cameroon",
+                "Country": "Camerun",
                 "Lat": 4.42855,
                 "Lon": 14.36399
             },
@@ -1084,7 +1084,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Yaoundé",
-                "Country": "Cameroon",
+                "Country": "Camerun",
                 "Lat": 3.86177,
                 "Lon": 11.51875
             },
@@ -1100,7 +1100,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Kinshasa",
-                "Country": "Democratic Republic of the Congo",
+                "Country": "Repubblica Democratica del Congo",
                 "Lat": -4.444860659,
                 "Lon": 15.26059896
             },
@@ -1116,7 +1116,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Kisangani",
-                "Country": "Democratic Republic of the Congo",
+                "Country": "Repubblica Democratica del Congo",
                 "Lat": 0.5185644246,
                 "Lon": 25.19997527
             },
@@ -1132,7 +1132,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Mossaka",
-                "Country": "Republic of the Congo",
+                "Country": "Repubblica del Congo",
                 "Lat": -1.22628,
                 "Lon": 16.793091
             },
@@ -1148,7 +1148,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Abengourou",
-                "Country": "Côte d'Ivoire",
+                "Country": "Costa d'Avorio",
                 "Lat": 7.27659,
                 "Lon": -2.98559
             },
@@ -1164,7 +1164,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Abidjan",
-                "Country": "Côte d'Ivoire",
+                "Country": "Costa d'Avorio",
                 "Lat": 6.82147,
                 "Lon": -5.27985
             },
@@ -1180,7 +1180,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Anyama",
-                "Country": "Côte d'Ivoire",
+                "Country": "Costa d'Avorio",
                 "Lat": 5.49868,
                 "Lon": -4.05353
             },
@@ -1196,7 +1196,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Duékoué",
-                "Country": "Côte d'Ivoire",
+                "Country": "Costa d'Avorio",
                 "Lat": 6.74463,
                 "Lon": -7.34583
             },
@@ -1212,7 +1212,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Madina",
-                "Country": "Côte d'Ivoire",
+                "Country": "Costa d'Avorio",
                 "Lat": 8.28978,
                 "Lon": -7.4144
             },
@@ -1228,7 +1228,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Man",
-                "Country": "Côte d'Ivoire",
+                "Country": "Costa d'Avorio",
                 "Lat": 7.40796,
                 "Lon": -7.54987
             },
@@ -1244,7 +1244,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Marcory",
-                "Country": "Côte d'Ivoire",
+                "Country": "Costa d'Avorio",
                 "Lat": 5.30776,
                 "Lon": -3.99293
             },
@@ -1260,7 +1260,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Odienne",
-                "Country": "Côte d'Ivoire",
+                "Country": "Costa d'Avorio",
                 "Lat": 9.51,
                 "Lon": -7.56917
             },
@@ -1276,7 +1276,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Yamassoukro",
-                "Country": "Côte d'Ivoire",
+                "Country": "Costa d'Avorio",
                 "Lat": 6.82147,
                 "Lon": -5.27985
             },
@@ -1292,7 +1292,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Kruševac",
-                "Country": "Croatia",
+                "Country": "Croazia",
                 "Lat": 46.02805,
                 "Lon": 16.67938
             },
@@ -1308,7 +1308,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Labin",
-                "Country": "Croatia",
+                "Country": "Croazia",
                 "Lat": 45.09878,
                 "Lon": 14.11556
             },
@@ -1324,7 +1324,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Pula",
-                "Country": "Croatia",
+                "Country": "Croazia",
                 "Lat": 44.869701,
                 "Lon": 13.84133
             },
@@ -1340,7 +1340,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Rijeka",
-                "Country": "Croatia",
+                "Country": "Croazia",
                 "Lat": 45.326908,
                 "Lon": 14.441
             },
@@ -1356,7 +1356,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Tresnjevica",
-                "Country": "Croatia",
+                "Country": "Croazia",
                 "Lat": 45.91676,
                 "Lon": 17.14636
             },
@@ -1372,7 +1372,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Vinež",
-                "Country": "Croatia",
+                "Country": "Croazia",
                 "Lat": 45.09591,
                 "Lon": 14.10527
             },
@@ -1388,7 +1388,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Alexandria",
-                "Country": "Egypt",
+                "Country": "Egitto",
                 "Lat": 31.200092,
                 "Lon": 29.918739
             },
@@ -1404,7 +1404,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Addis Ababa",
-                "Country": "Ethiopia",
+                "Country": "Etiopia",
                 "Lat": 8.980603,
                 "Lon": 38.757759
             },
@@ -1420,7 +1420,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Harar",
-                "Country": "Ethiopia",
+                "Country": "Etiopia",
                 "Lat": 9.25382,
                 "Lon": 42.172009
             },
@@ -1436,7 +1436,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Jijiga",
-                "Country": "Ethiopia",
+                "Country": "Etiopia",
                 "Lat": 9.35064,
                 "Lon": 42.798889
             },
@@ -1835,7 +1835,7 @@
         {
             "type": "Feature",
             "properties": {
-                "City": "Tehran",
+                "City": "Teheran",
                 "Country": "Iran",
                 "Lat": 35.689198,
                 "Lon": 51.388973
@@ -1852,7 +1852,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Port Louis",
-                "Country": "Mauritius",
+                "Country": "Repubblica di Mauritius",
                 "Lat": -20.160891,
                 "Lon": 57.501221
             },
@@ -1980,7 +1980,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Debar",
-                "Country": "North Macedonia",
+                "Country": "Macedonia del Nord",
                 "Lat": 41.52669,
                 "Lon": 20.52368
             },
@@ -1996,7 +1996,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Kavadartsi",
-                "Country": "North Macedonia",
+                "Country": "Macedonia del Nord",
                 "Lat": 41.43402045,
                 "Lon": 22.01090752
             },
@@ -2012,7 +2012,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Mogorche",
-                "Country": "North Macedonia",
+                "Country": "Macedonia del Nord",
                 "Lat": 41.53115,
                 "Lon": 20.62412
             },
@@ -2028,7 +2028,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Skopje",
-                "Country": "North Macedonia",
+                "Country": "Macedonia del Nord",
                 "Lat": 41.997345,
                 "Lon": 21.427996
             },
@@ -2044,7 +2044,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Tetovo",
-                "Country": "North Macedonia",
+                "Country": "Macedonia del Nord",
                 "Lat": 42.01022,
                 "Lon": 20.97137
             },
@@ -2203,8 +2203,8 @@
         {
             "type": "Feature",
             "properties": {
-                "City": "Agadir ",
-                "Country": "Morocco",
+                "City": "Agadir",
+                "Country": "Marocco",
                 "Lat": 30.41713,
                 "Lon": -9.59925
             },
@@ -2220,7 +2220,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Ahlaf",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 33.26891,
                 "Lon": -7.19639
             },
@@ -2236,7 +2236,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Ben Ahmed",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 33.0657,
                 "Lon": -7.24515
             },
@@ -2252,7 +2252,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Beni Abdellah",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.33569,
                 "Lon": -6.35037
             },
@@ -2268,7 +2268,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Beni Amer",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.86917,
                 "Lon": -6.91049
             },
@@ -2284,7 +2284,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Beni Mellal",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.33613,
                 "Lon": -6.35526
             },
@@ -2300,7 +2300,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Tnine Beni Meskine",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.89343,
                 "Lon": -6.92221
             },
@@ -2316,7 +2316,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Berrechid",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 33.27098,
                 "Lon": -7.58474
             },
@@ -2332,7 +2332,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Boulemane",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 33.36624,
                 "Lon": -4.73111
             },
@@ -2348,7 +2348,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Casablanca",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 33.573109,
                 "Lon": -7.589843
             },
@@ -2363,8 +2363,8 @@
         {
             "type": "Feature",
             "properties": {
-                "City": "Douar Zaouia  ",
-                "Country": "Morocco",
+                "City": "Douar Zaouia",
+                "Country": "Marocco",
                 "Lat": 31.25197,
                 "Lon": -8.68325
             },
@@ -2380,7 +2380,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Talouste",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 34.02199,
                 "Lon": -6.83762
             },
@@ -2396,7 +2396,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Douar Assaka",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 29.02512,
                 "Lon": -10.23706
             },
@@ -2412,7 +2412,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Ouled Mellouk",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 30.36629,
                 "Lon": -9.31991
             },
@@ -2428,7 +2428,7 @@
             "type": "Feature",
             "properties": {
                 "City": "El Aounate",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 34.05366,
                 "Lon": -6.789
             },
@@ -2444,7 +2444,7 @@
             "type": "Feature",
             "properties": {
                 "City": "El Borouj",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.50454,
                 "Lon": -7.19265
             },
@@ -2460,7 +2460,7 @@
             "type": "Feature",
             "properties": {
                 "City": "El Kelaa des Sraghna",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.05282,
                 "Lon": -7.4072
             },
@@ -2476,7 +2476,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Fes",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 34.059769,
                 "Lon": -4.96531
             },
@@ -2492,7 +2492,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Ghafsai",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 34.629,
                 "Lon": -4.91155
             },
@@ -2508,7 +2508,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Guercif",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 34.23023,
                 "Lon": -3.34264
             },
@@ -2524,7 +2524,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Ida Ou Mhand",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 30.54545,
                 "Lon": -9.0073
             },
@@ -2540,7 +2540,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Kasbah Tadla",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.59578,
                 "Lon": -6.27461
             },
@@ -2556,7 +2556,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Kenitra",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 34.267471,
                 "Lon": -6.56263
             },
@@ -2572,7 +2572,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Khouribga",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.8791,
                 "Lon": -6.91118
             },
@@ -2588,7 +2588,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Ksar el-Kebir",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 35.00246,
                 "Lon": -5.90356
             },
@@ -2604,7 +2604,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Maârif",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 33.58026,
                 "Lon": -7.63022
             },
@@ -2620,7 +2620,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Marrakesh",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 31.71879,
                 "Lon": -8.09695
             },
@@ -2636,7 +2636,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Mediouna",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 33.456139,
                 "Lon": -7.52168
             },
@@ -2668,7 +2668,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Temara",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 33.92993,
                 "Lon": -6.9143
             },
@@ -2684,7 +2684,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Ouled Abdoune",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.91597,
                 "Lon": -6.93453
             },
@@ -2700,7 +2700,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Ouled Ali",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 34.2268,
                 "Lon": -5.72335
             },
@@ -2716,7 +2716,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Ouled Mrah",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.91019,
                 "Lon": -7.2584
             },
@@ -2732,7 +2732,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Ouled Said",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.54246,
                 "Lon": -6.36405
             },
@@ -2748,7 +2748,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Rabat",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 34.021992,
                 "Lon": -6.83762
             },
@@ -2764,7 +2764,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Ras El Ain",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.02483,
                 "Lon": -8.49025
             },
@@ -2780,7 +2780,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Skhour Rhamna",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.48155,
                 "Lon": -7.91584
             },
@@ -2796,7 +2796,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Safi",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.309879,
                 "Lon": -9.23262
             },
@@ -2812,7 +2812,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Salé",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 34.05357,
                 "Lon": -6.79286
             },
@@ -2828,7 +2828,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Settat",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 33.00137,
                 "Lon": -7.61972
             },
@@ -2844,7 +2844,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Bouarfa",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.53149,
                 "Lon": -1.9605
             },
@@ -2860,7 +2860,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Sidi El Hattab",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.26403,
                 "Lon": -7.28868
             },
@@ -2876,7 +2876,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Skhirat",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 33.86865,
                 "Lon": -7.06249
             },
@@ -2892,7 +2892,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Sraghna",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 32.05282,
                 "Lon": -7.4072
             },
@@ -2908,7 +2908,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Tafraoute",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 33.53356,
                 "Lon": -7.62677
             },
@@ -2924,7 +2924,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Tanant",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 31.86285,
                 "Lon": -6.94376
             },
@@ -2940,7 +2940,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Taroudant",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 30.44713,
                 "Lon": -8.4161
             },
@@ -2956,7 +2956,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Tata",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 29.746392,
                 "Lon": -7.969605
             },
@@ -2972,7 +2972,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Taza",
-                "Country": "Morocco",
+                "Country": "Marocco",
                 "Lat": 34.2318,
                 "Lon": -4.00676
             },
@@ -2987,8 +2987,8 @@
         {
             "type": "Feature",
             "properties": {
-                "City": "Tendrara  ",
-                "Country": "Morocco",
+                "City": "Tendrara",
+                "Country": "Marocco",
                 "Lat": 33.05218,
                 "Lon": -2.00232
             },
@@ -3324,7 +3324,7 @@
             "type": "Feature",
             "properties": {
                 "City": "Kraków",
-                "Country": "Poland",
+                "Country": "Polonia",
                 "Lat": 50.05481,
                 "Lon": 19.927839
             },
@@ -4139,7 +4139,7 @@
         {
             "type": "Feature",
             "properties": {
-                "City": "Tunisia",
+                "City": "Tunisi",
                 "Country": "Tunisia",
                 "Lat": 36.80007,
                 "Lon": 10.18706
